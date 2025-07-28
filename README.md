@@ -47,7 +47,7 @@ Pillow (Image handling)
 
 threading (Concurrency)
 
-How to Run
+# Run
 
 1. Clone or download the repo
 
