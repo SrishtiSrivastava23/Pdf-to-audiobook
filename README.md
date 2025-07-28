@@ -65,7 +65,7 @@ python main.py
 ```
 
 # Screenshot
-(SS(1).png)
+[Screenshot](SS.png)
 
 # Note:
 1. Only pdf can be used with proper text.
