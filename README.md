@@ -10,7 +10,7 @@ The main goal of this project is to make reading more accessible and engaging by
 
 3.Students or professionals who prefer auditory learning
 
-#Features
+# Features
 📄 PDF Text Extraction
 The application uses PyPDF2 to open and read PDF files. It extracts text page by page, handling plain-text PDFs.
 
