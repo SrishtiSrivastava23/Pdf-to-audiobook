@@ -70,4 +70,4 @@ python main.py
 # Note:
 1. Only pdf can be used with proper text(Selectable text).
 2. Images cannot be used.
-3. I used NCERT english chapter for demo
+3. NCERT english chapter used for demo
