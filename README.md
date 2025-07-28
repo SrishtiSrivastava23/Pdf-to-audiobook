@@ -10,7 +10,7 @@ The main goal of this project is to make reading more accessible and engaging by
 
 3.Students or professionals who prefer auditory learning
 
-# Main Parts
+# Components
 📄 PDF Text Extraction
 The application uses PyPDF2 to open and read PDF files. It extracts text page by page, handling plain-text PDFs.
 
@@ -68,6 +68,6 @@ python main.py
 ![Screenshot](SS.png)
 
 # Note:
-1. Only pdf can be used with proper text.
+1. Only pdf can be used with proper text(Selectable text).
 2. Images cannot be used.
 3. I used NCERT english chapter for demo
