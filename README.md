@@ -1,7 +1,7 @@
 # Pdf-to-audiobook📖
 PDF to Audiobook is a program that converts the written text from PDF documents into audio
 
-# Project Objective
+# Objective
 The main goal of this project is to make reading more accessible and engaging by converting text-based PDFs into audible content. This is especially useful for:
 
 1.Visually impaired users
@@ -10,7 +10,7 @@ The main goal of this project is to make reading more accessible and engaging by
 
 3.Students or professionals who prefer auditory learning
 
-# Features
+# Main Parts
 📄 PDF Text Extraction
 The application uses PyPDF2 to open and read PDF files. It extracts text page by page, handling plain-text PDFs.
 
